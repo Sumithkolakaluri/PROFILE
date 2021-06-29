@@ -93,3 +93,11 @@
 .zero{
   padding-left:560px;
 }
+@media (max-width: 767.98px) {
+.pro{
+  
+  background-image: url(https://cdn.britannica.com/60/182360-050-CD8878D6/Avengers-Age-of-Ultron-Joss-Whedon.jpg);
+  backface-visibility: hidden;
+  background-size: cover;
+  background-attachment:fixed;
+}
